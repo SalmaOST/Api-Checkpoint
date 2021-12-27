@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: #c33764; 
+  background: -webkit-linear-gradient(
+    to right,
+    #0f0f0f,
+    #0a8f2b
+  );
+  background: linear-gradient(
+    to right,
+    #0a8f2b,
+    #0f0f0f
+  ); 
+ 
+}
+li{
+  list-style: none;
+}
+
+.inf{
+font-family: monospace;
+color: rgb(137, 143, 137);
+font-size: 15px;
+font-weight: 800;
+font-style: italic;
+list-style: none;
+}
+
+.Inf{
+  color: rgb(140, 245, 149);
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: cursive;
+  list-style: none;
+  text-decoration: underline rgb(101, 238, 124);
+}
+.Inf-A{
+color: rgb(57, 238, 81);
+font-style:oblique;
+font-family: cursive;
+
+}
+
+.Inf-B{
+color: rgb(88, 207, 74);
+font-style:oblique;
+font-family: cursive;
+}
+
+.Inf-C{
+color: rgb(66, 240, 75);
+font-style:oblique;
+font-family: cursive;
+}
